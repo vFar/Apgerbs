@@ -1,7 +1,7 @@
 # Apgerbs
-Unity 2D projekts ar fantāzija tēlu apģērba izvietošanu
+Unity 2D projekts ar fantāzija tēlu apģērba izvietošanu iekš Minecraft
 
-![Dragonborn](https://static.wikia.nocookie.net/p__/images/c/ca/Dovahkiin.png/revision/latest/scale-to-width-down/350?cb=20211111165746&path-prefix=protagonist)
+![Minecraft](https://www.nicepng.com/png/detail/82-825588_alex-y-steve-minecraft.png)
 
 **Veicamo uzdevumu saraksts:**
 - [] Skriptu izveide lietojot C# programmēšanas valodu
