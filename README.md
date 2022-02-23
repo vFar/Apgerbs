@@ -5,9 +5,9 @@ Unity 2D projekts ar fantāzija tēlu apģērba izvietošanu iekš Minecraft
 
 **Veicamo uzdevumu saraksts:**
 - [x] Skriptu izveide lietojot C# programmēšanas valodu
-- [] Ievietoti attēli, audio un citi nepieciešamie faili
+- [x] Ievietoti attēli, audio un citi nepieciešamie faili
 - [x] Pievienoti teksta lauki priekš tēla vārda un vecumu
-- [] Pielietota Slider komponente
-- [] Pielietota Dropdown komponente
-- [] Pielietota Panel komponente
-- [] Pielietota Toggle un Button funkcijas
+- [x] Pielietota Slider komponente
+- [x] Pielietota Dropdown komponente
+- [x] Pielietota Panel komponente
+- [x] Pielietota Toggle un Button funkcijas
